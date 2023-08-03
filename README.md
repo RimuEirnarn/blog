@@ -1,2 +1,3 @@
-# rimueirnarn.github.io
-... what should i do with this...
+# RimuEirnarn's blog
+
+There's nothing here yet.
